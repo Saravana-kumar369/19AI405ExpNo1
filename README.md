@@ -94,3 +94,6 @@ if __name__ == "__main__":
     
     health_monitoring_agent.monitor_health()
 ```
+<h2>OUTPUT:</h2>
+
+![image](https://github.com/user-attachments/assets/ff3666fc-57f9-4d48-b033-334d7a8b92eb)
